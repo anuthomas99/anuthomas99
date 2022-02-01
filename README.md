@@ -6,7 +6,6 @@
 - Learning cloud computing with AWS and Azure and looking to collaborate on data engineering projects
 
 
-More about me | https://www.linkedin.com/in/anita-thomas-4bba7156/
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anita-thomas-4bba7156/)
+More about me |[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anita-thomas-4bba7156/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
